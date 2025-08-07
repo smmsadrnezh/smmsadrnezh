@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on generative AI in simulation-based test environments for large-scale cyber-physical systems
-- 🌱 I’m currently learning generative AI in CI/CD pipelines
+I am pursuing a PhD with the Complex Software-Intensive Systems Research Group at Linköping University. My research explores the intersection of software engineering, large language models, and cyber-physical systems.
+
+Before starting my PhD, I worked as a web developer and software architect, gaining deep expertise in Python. I served as a technical lead, acquired experience across all phases of the software development life cycle, conducted research on recommender systems, taught programming across various specializations, and administered Linux Servers. Additionally, I advocate for software freedom and am interested in Western philosophy.
+
 - **Email:** masoud.sadrnezhaad@liu.se
 - **Website:** [smm.sadrn.com](https://smm.sadrn.com)
 
